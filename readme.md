@@ -1,1 +1,1 @@
-init
+ADE - Agentic development environment
