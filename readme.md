@@ -1,4 +1,4 @@
-# Minimal Agentic LLM Builder - Python Desktop MVP
+# ReFact AI - LLM Builder - Python Desktop MVP
 
 A lightweight Python desktop application for loading local small LLMs, sending prompts, inspecting responses, and running evaluations.
 
