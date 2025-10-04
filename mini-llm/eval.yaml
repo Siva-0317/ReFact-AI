@@ -1,0 +1,17 @@
+# Sample Evaluation Test Cases
+# Each item should have 'input' and optionally 'expected' fields
+
+- input: "What is 2 + 2?"
+  expected: "4"
+
+- input: "Explain what Python is in one sentence."
+  expected: "programming language"
+
+- input: "What is the capital of France?"
+  expected: "Paris"
+
+- input: "Write a simple greeting."
+  expected: "hello"
+
+- input: "What color is the sky?"
+  expected: "blue"

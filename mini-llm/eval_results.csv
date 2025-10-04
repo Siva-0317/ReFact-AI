@@ -1,0 +1,21 @@
+input,expected,actual,passed,latency_ms
+What is 2 + 2?,4,2 + 2 = 4,True,629.3
+Explain what Python is in one sentence.,programming language,"Python is a versatile, high-level programming language known for its clear syntax and extensive libraries, used for various tasks like web development, data analysis, and automation.",True,1948.48
+What is the capital of France?,Paris,The capital of France is **Paris**.,True,651.78
+Write a simple greeting.,hello,Hello! 👋 😊,True,444.73
+What color is the sky?,blue,"The sky appears **blue** most of the time due to a phenomenon called **Rayleigh scattering**. 
+
+Here's a breakdown:
+
+* **Sunlight:** Sunlight is made up of all the colors of the rainbow.
+* **Earth's Atmosphere:**  Our atmosphere is made up of tiny gas molecules. When sunlight enters the atmosphere, these molecules scatter the light. 
+* **Rayleigh Scattering:**  Blue light has a shorter wavelength than other colors, so it's scattered more strongly by the atmospheric gas molecules. This scattered blue light is what we see as the blue sky.
+
+However, the sky's color can change depending on:
+
+* **Time of day:** The sky appears redder at sunrise and sunset because the sunlight has to travel through more of the atmosphere to reach us.
+* **Cloud Cover:** Clouds appear white or grey because they are made up of water droplets that scatter all colors of light equally.
+* **Weather:** Haze, pollution, and dust can also affect the color of the sky. 
+
+
+Let me know if you'd like to learn more about why the sky looks different in different conditions!",True,12924.4
